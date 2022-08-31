@@ -18,7 +18,7 @@ https://youtu.be/i5I5TD18i8w
 ## Required components for the ESP32 Project
 So, you can easily make this home automation project at home just by using an ESP32 and relay module. Or you can also use a custom-designed PCB for this project.
 
-## Required components:
+### Required components:
 1. ESP32 DevKIT V1 Amazon
 2. 4-channel or 8-channel 5V SPDT Relay Module Amazon
 3. TSOP1838 IR receiver (with metallic casing)
@@ -26,7 +26,7 @@ So, you can easily make this home automation project at home just by using an ES
 5. Manual Switches or Pushbuttons Amazon
 6. Any IR Remote
 
-## Required components for PCB:
+### Required components for PCB:
 1. ESP32 DEVKIT V1
 2. TSOP1838 IR receiver (with metallic case)
 3. Relays 5v (SPDT) (8 no)
@@ -74,7 +74,8 @@ You can use any Bluetooth or BLE module. It will send the signal to ESP32 throug
 
 First, pair the Bluetooth module, then connect the module with the Bluetooth Switch app.
 
-Download the Bluetooth App: https://github.com/techstudycell/ESP-RainMaker-IoT-Project-with-Bluetooth-Google/tree/main/Bluetooth_App
+#### Download the Bluetooth App: 
+https://github.com/techstudycell/ESP-RainMaker-IoT-Project-with-Bluetooth-Google/tree/main/Bluetooth_App
 
 ## IR Remote & Manual Switch Control Relay Using ESP32
 You can always control the relays from the IR remote or switches. For this project, you can use any IR remote.
@@ -90,7 +91,7 @@ To make the circuit compact and give a professional look, I designed the PCB aft
 
 You can download the PCB Gerber files of this ESP32 control relay PCB from the following link:
 
-GitHub link to Download PCB Gerber File
+#### Download PCB Gerber File:
 
 Now you can easily use JLC SMT Service while ordering the PCB for any electronics project.
 
@@ -142,7 +143,8 @@ Then follow the following steps to get the HEX codes
 Save all the HEX codes in a text file.
 
 
-Download the Source Code: https://github.com/techstudycell/ESP-RainMaker-IoT-Project-with-Bluetooth-Google/tree/main/Code
+#### Download the Source Code: 
+https://github.com/techstudycell/ESP-RainMaker-IoT-Project-with-Bluetooth-Google/tree/main/Code
 
 ## Program the ESP32 for This IoT Project
 For programming the ESP32, you have to update the Preferences URLs and then install the ESP32 Board 2.0.3 version.
