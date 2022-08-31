@@ -92,6 +92,7 @@ To make the circuit compact and give a professional look, I designed the PCB aft
 You can download the PCB Gerber files of this ESP32 control relay PCB from the following link:
 
 #### Download PCB Gerber File:
+https://github.com/techstudycell/ESP-RainMaker-IoT-Project-with-Bluetooth-Google/tree/main/PCB_Gerber
 
 Now you can easily use JLC SMT Service while ordering the PCB for any electronics project.
 
